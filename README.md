@@ -8,3 +8,6 @@
 
 ## In matrix D, the diagonal values are the eigenvalues of the covariance matrix ordered from largest to smallest from left to right. Eigenvalues represent the total amount of variance that can be explained by a given principal component, and we order them based on their absolute values. While our example only has two features / eigenvalues, it's important to note that when there are many more, we typically only need a few of the largest eigenvalues to restore the majority of the covariance matrix.
 ![Screen Shot 2022-07-03 at 12 17 06 AM](https://user-images.githubusercontent.com/102645083/177029399-ba24c01e-94cd-49db-92a8-4b4ffe78eaf5.png)
+
+## I
+
