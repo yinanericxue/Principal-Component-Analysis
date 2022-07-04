@@ -10,7 +10,7 @@
 ![Screen Shot 2022-07-03 at 12 17 06 AM](https://user-images.githubusercontent.com/102645083/177029399-ba24c01e-94cd-49db-92a8-4b4ffe78eaf5.png)
 
 ## Now if we want to keep the more important feature out of the two, we transpose P and multiply its first row to the dataset. We now get
-![Screen Shot 2022-07-03 at 12 36 55 PM](https://user-images.githubusercontent.com/102645083/177054778-f58f7dae-a5d8-487f-91b0-3dba487291c6.png)
+![Screen Shot 2022-07-03 at 7 34 26 PM](https://user-images.githubusercontent.com/102645083/177071617-60775841-26a9-4379-bc34-911df8e7b42c.png)
 
 ## However, what we really care about is whether we can restore the initial dataset using the features from this new dimension. In our code, we first used "pca.pca(data,1)" to have one feature in the new dimension. When we tried to recover the initial data, some of the original information were lost, but the general trend of the data is still there.
 ![Screen Shot 2022-07-03 at 6 58 27 PM](https://user-images.githubusercontent.com/102645083/177068550-152e89e6-d50e-4647-8306-752ece37f4c3.png)
