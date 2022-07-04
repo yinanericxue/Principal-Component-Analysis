@@ -18,5 +18,5 @@
 ## If we use "pca.pca(data,2)" and have two features in the new dimension. We will be able to restore the data back to its originality without any loss.
 ![Screen Shot 2022-07-03 at 7 15 45 PM](https://user-images.githubusercontent.com/102645083/177070017-58bf2ff2-7010-4eec-8852-4dac1e4d4055.png)
 
-##
-
+## The math behind this is quite simple.
+![Screen Shot 2022-07-03 at 7 33 53 PM](https://user-images.githubusercontent.com/102645083/177071568-c6b483a3-cf08-457f-b6f9-47be4f5b7332.png)
