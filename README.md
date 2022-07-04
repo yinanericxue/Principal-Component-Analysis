@@ -9,5 +9,5 @@
 ## In matrix D, the diagonal values are the eigenvalues of the covariance matrix ordered from largest to smallest from left to right. Eigenvalues represent the total amount of variance that can be explained by a given principal component, and we order them based on their absolute values. On the other hand, matrix P includes all the corresponding eigenvectors to matrix D. While our example only has two features / eigenvalues, it's important to note that when there are many more, we typically only need a few of the largest eigenvalues to restore the majority of the covariance matrix.
 ![Screen Shot 2022-07-03 at 12 17 06 AM](https://user-images.githubusercontent.com/102645083/177029399-ba24c01e-94cd-49db-92a8-4b4ffe78eaf5.png)
 
-## Now if we want to keep the more important feature out of the two, we transpose P and multiply its first row to init
+## Now if we want to keep the more important feature out of the two, we transpose P and multiply its first row to the dataset. We now get
 ![Screen Shot 2022-07-03 at 12 36 55 PM](https://user-images.githubusercontent.com/102645083/177054778-f58f7dae-a5d8-487f-91b0-3dba487291c6.png)
