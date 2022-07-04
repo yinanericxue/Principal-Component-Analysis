@@ -16,5 +16,5 @@
 ![Screen Shot 2022-07-03 at 6 58 27 PM](https://user-images.githubusercontent.com/102645083/177068550-152e89e6-d50e-4647-8306-752ece37f4c3.png)
 
 ## If we use "pca.pca(data,2)" and have two features in the new dimension. We will be able to restore the data back to its originality without any loss.
-![Screen Shot 2022-07-03 at 7 03 21 PM](https://user-images.githubusercontent.com/102645083/177068954-fbae7a4c-2ecb-4c6a-b035-6bd86b39d4bb.png)
+![Screen Shot 2022-07-03 at 7 15 45 PM](https://user-images.githubusercontent.com/102645083/177070017-58bf2ff2-7010-4eec-8852-4dac1e4d4055.png)
 
